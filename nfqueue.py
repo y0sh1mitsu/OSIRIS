@@ -1,6 +1,5 @@
 #!/bin/python3
 # Julien HOURY. 
-# TO DO : Implémentation d'une API orienté CTI pour automatiser le filtrage en fonction d'un IOC existant ou non + Implémentation de threads + Interface Graphique
 #Import des librairies
 from scapy.all import *
 from netfilterqueue import NetfilterQueue
