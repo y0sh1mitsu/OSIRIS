@@ -1,4 +1,4 @@
-# OSIRIS
+# NFQUEUE
 Projet crée suite à une demande d'un script en Python de la part de mon professeur de Sécurité de Système Avancée au sein de l'École Supérieure de Génie Informatique.
 
 Le script est écrit en Python 3, il utilise les librairies : 
