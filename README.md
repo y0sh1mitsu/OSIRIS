@@ -5,7 +5,9 @@ Le script est écrit en Python 3, il utilise les librairies :
 - Scapy : Pour la manipulation de paquet.
 - Netfilterqueue : Pour le filtrage des paquets en utilisant le Firewall Netfilter et l'option Queue afin de mettre ces derniers en attente le temps d'une décision.
 
-![Screenshot](Schéma_NFQUEUE.png)
+<p align="center">
+  <img width="460" height="300" src="Schéma_NFQUEUE.png">
+</p>
 
 Actuellement une action manuelle de la part d'un utilisateur est nécessaire afin de filtrer les paquets un à un. 
 Des whitelist / blacklist sont mises en place afin de ne pas avoir de demandes d'actions à un utilisateur sur des paquets deja traités.
