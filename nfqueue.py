@@ -39,7 +39,7 @@ nfqueue = NetfilterQueue()
 nfqueue.bind(1, Filtrage_paquet)
 
 try:
-    print ('NFQUEUE en écoute')
+    print ('en écoute')
     nfqueue.run()
     exit()
 except KeyboardInterrupt:
