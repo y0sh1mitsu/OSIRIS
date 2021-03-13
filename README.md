@@ -1,5 +1,5 @@
 # NFQUEUE
-Project created following a request for a script in Python from my Advanced System Security teacher at the École Supérieure de Génie Informatique.
+Project created following a request from my Advanced System Security teacher at the École Supérieure de Génie Informatique.
 
 The script is written in Python 3, it uses the libraries :
 - Scapy : For package manipulation.
